@@ -1,0 +1,6 @@
+.barcode-scanner-container canvas {
+  display: none;
+}
+#barcode-scanner br{
+display: none;
+}
